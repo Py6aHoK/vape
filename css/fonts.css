@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/Ubuntu-L_W.woff2") format("woff2"), url("/fonts/8619add2-Ubuntu-L_W.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Ubuntu-R_W.woff2") format("woff2"), url("/fonts/7af50859-Ubuntu-R_W.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 300;
+  src: url("/fonts/Ubuntu-LI_W.woff2") format("woff2"), url("/fonts/Ubuntu-LI_W.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  src: url("/fonts/ubuntu-ri-webfont.woff2") format("woff2"), url("/fonts/ubuntu-ri-webfont.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 100;
+  src: url("/fonts/Ubuntu-Th_W.woff2") format("woff2"), url("/fonts/Ubuntu-Th_W.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/UbuntuMono-R_W.woff2") format("woff2"), url("/fonts/UbuntuMono-R_W.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/UbuntuMono-R_W.woff2") format("woff2"), url("/fonts/UbuntuMono-R_W.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Ubuntu"), url("/fonts/ODszJI8YqNw8V2xPulzjO_esZW2xOQ-xsNqO47m55DA.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Ubuntu"), url("/fonts/iQ9VJx1UMASKNiGywyyCXvesZW2xOQ-xsNqO47m55DA.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Ubuntu"), url("/fonts/WkvQmvwsfw_KKeau9SlQ2_esZW2xOQ-xsNqO47m55DA.woff2") format("woff2");
+  unicode-range: U+1F00-1FFF; }
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Ubuntu"), url("/fonts/gYAtqXUikkQjyJA1SnpDLvesZW2xOQ-xsNqO47m55DA.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Ubuntu"), url("/fonts/Wu5Iuha-XnKDBvqRwQzAG_esZW2xOQ-xsNqO47m55DA.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Ubuntu"), url("/fonts/sDGTilo5QRsfWu6Yc11AXg.woff2") format("woff2");
+}
